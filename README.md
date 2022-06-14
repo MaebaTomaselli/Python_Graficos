@@ -10,6 +10,6 @@ Analisar dados históricos dos jogos olímpicos e utilizar bibliotecas gráficas
 - Seaborn.
 
 ### Equipe:
-André Luiz
-Maeba
-Vagner
+André Luiz <br>
+Maeba<br>
+Vagner<br>
